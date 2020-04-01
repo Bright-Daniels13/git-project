@@ -1,14 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+1st April 2020
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+Used the Motivate dataset to explore user statistics on bike renting in 3 cities.
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.html
+Explore_bikeshare_data.ipynb
+chicago.csv
+new_york_city.csv
+washington.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

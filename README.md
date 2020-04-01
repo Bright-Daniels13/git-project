@@ -17,3 +17,9 @@ washington.csv
 
 ### Credits
 Credit to tutorialspoint -  https://www.tutorialspoint.com/r/r_bar_charts.htmIt's 
+
+### Author Information
+	
+	Name: Bright ABekah Daniels
+	Email:Brightdaniels13@gmail.com
+	Address: UC 147, Cape Coast
